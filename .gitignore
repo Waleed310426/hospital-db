@@ -1,0 +1,32 @@
+﻿# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+env/
+venv/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Build
+build/
+dist/
+bin/
+obj/
+.dart_tool/
+
+# Large files
+*.pbix
+*.csv
+*.mp4
+*.zip
+*.rar
+*.exe
+*.dll
+
+# OS
+.DS_Store
+Thumbs.db

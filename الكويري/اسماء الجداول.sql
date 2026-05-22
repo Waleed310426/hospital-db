@@ -1,0 +1,21 @@
+﻿--Specialties: جدول التخصصات الطبية للأطباء (مرجعي)
+--VisitTypes: جدول أنواع الزيارة (مرجعي)
+--AppointmentStatus: جدول حالات الموعد (مرجعي)
+--InvoiceStatus: جدول حالات الفاتورة (مرجعي)
+--RoomTypes: جدول أنواع الغرف (مرجعي)
+--Departments: جدول الأقسام
+--Patients: جدول المرضى
+--Doctors: جدول الأطباء
+--Nurses: جدول الممرضين
+--Rooms: جدول الغرف
+--BedAssignments: جدول ربط المريض بسرير/غرفة (تكليف سرير)
+--Appointments: جدول المواعيد
+--Drugs: جدول الأدوية
+--Encounters: جدول الزيارات/السجل الطبي
+--Diagnoses: جدول تشخيصات الزيارة
+--Procedures: جدول إجراءات الزيارة
+--Prescriptions: جدول الوصفات الطبية (رأس الوصفة)
+--PrescriptionItems: جدول بنود الوصفة (الأدوية)
+--Invoices: جدول الفوترة والمدفوعات
+--InvoiceItems: جدول عناصر الفاتورة (البنود)
+--Payments: جدول المدفوعات
